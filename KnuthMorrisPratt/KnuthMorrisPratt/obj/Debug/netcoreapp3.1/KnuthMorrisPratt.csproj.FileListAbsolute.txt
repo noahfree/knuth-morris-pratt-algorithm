@@ -1,0 +1,14 @@
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\bin\Debug\netcoreapp3.1\KnuthMorrisPratt.exe
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\bin\Debug\netcoreapp3.1\KnuthMorrisPratt.deps.json
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\bin\Debug\netcoreapp3.1\KnuthMorrisPratt.runtimeconfig.json
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\bin\Debug\netcoreapp3.1\KnuthMorrisPratt.runtimeconfig.dev.json
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\bin\Debug\netcoreapp3.1\KnuthMorrisPratt.dll
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\bin\Debug\netcoreapp3.1\KnuthMorrisPratt.pdb
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\obj\Debug\netcoreapp3.1\KnuthMorrisPratt.csproj.AssemblyReference.cache
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\obj\Debug\netcoreapp3.1\KnuthMorrisPratt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\obj\Debug\netcoreapp3.1\KnuthMorrisPratt.AssemblyInfoInputs.cache
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\obj\Debug\netcoreapp3.1\KnuthMorrisPratt.AssemblyInfo.cs
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\obj\Debug\netcoreapp3.1\KnuthMorrisPratt.csproj.CoreCompileInputs.cache
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\obj\Debug\netcoreapp3.1\KnuthMorrisPratt.dll
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\obj\Debug\netcoreapp3.1\KnuthMorrisPratt.pdb
+C:\Users\noahf\OneDrive\Documents\Classes\CS4060\KnuthMorrisPratt\KnuthMorrisPratt\obj\Debug\netcoreapp3.1\KnuthMorrisPratt.genruntimeconfig.cache
